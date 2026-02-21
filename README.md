@@ -1,4 +1,5 @@
 A continuación el código final desarrollado en clase:
+
 def Calculo():  # Función con la cual se ingresan los datos y se hace el calculo del índice de aridez
     City = input("Ingrese el nombre de la ciudad a estudiar: ")
 
